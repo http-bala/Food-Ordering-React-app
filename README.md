@@ -2,7 +2,7 @@
 
 A full-featured food ordering web application built with React and Context API. This application allows users to browse the menu, add items to their cart, and place orders. It also includes user authentication functionality.
 
-## Feature
+## Features
 
 - Browse menu items
 - Add items to cart
